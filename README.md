@@ -1,2 +1,2 @@
 # Investigating-Netflix-Movies
-Exploring Netflix movie data using Python to analyze trends and uncover insights from a specific decade through data manipulation and visualization.
+This project applies foundational and intermediate Python skills to explore and analyze Netflix movie data as part of DataCamp's Associate Data Scientist Pro track. Using exploratory data analysis (EDA), I uncovered insights about movies from a specific decade, helping a hypothetical production company make data-driven decisions. The analysis includes data manipulation, visualization, and key trend identification.
